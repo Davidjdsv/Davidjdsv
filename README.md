@@ -20,16 +20,16 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRkdXd0Z2FuZmhwcDg4cDJyazJwMm00azBzZHdncmM5emRjOGJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9EUjcUOT1aYE/giphy.gif"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidjdsv/Davidjdsv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidjdsv/Davidjdsv/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Davidjdsv/Davidjdsv/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRkdXd0Z2FuZmhwcDg4cDJyazJwMm00azBzZHdncmM5emRjOGJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9EUjcUOT1aYE/giphy.gif"  />
-</div>
 
 ###
