@@ -1,4 +1,8 @@
-<p align="left">Hello World!! I'm Jhoan David Sinisterra, I'm a software developer apprentice</p>
+<h1 align="left">Hello World!!</h1>
+
+###
+
+<p align="left">I'm Jhoan David Sinisterra, I'm a software developer apprentice</p>
 
 ###
 
@@ -21,11 +25,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRkdXd0Z2FuZmhwcDg4cDJyazJwMm00azBzZHdncmM5emRjOGJ6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q9EUjcUOT1aYE/giphy.gif"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDczdWtlc21icXFpYWxsbHdld3F0YTd5amhlM2FtODRscDl1bjkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Davidjdsv/Davidjdsv/output/snake.svg" alt="Snake animation" />
 
 ###
