@@ -1,4 +1,4 @@
-# Hey,[I'm Jhoan David!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey,[I'm Jhoan David!](https://www.facebook.com/jhoandavid.jdsv)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ## About me
 
@@ -31,8 +31,6 @@ Always learning. Always evolving.
  ```
 
 ## My skills include
-
-
 <div align="start">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=style-plastic-orange&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=style-plastic-blue&logo=css3&logoColor=white">
