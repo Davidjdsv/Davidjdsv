@@ -1,10 +1,18 @@
-<h1 align="left">Hello World!!</h1>
+# Hey,[I'm Jhoan David!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Who am I?
+## About me
+
+I’m a dedicated apprentice at SENA (Servicio Nacional de Aprendizaje), where I combine structured learning with my passion for coding. Every day, I immerse myself in programming, driven by a self-taught mindset and an unwavering commitment to growth.
+
+Discipline and curiosity fuel my journey to becoming an exceptional programmer. I thrive on tackling challenges, refining my skills, and leading by example—whether in collaborative projects or independent endeavors. My goal is to not only master the technical aspects of development but also inspire others through proactive leadership and a relentless pursuit of improvement.
+
+Always learning. Always evolving.
+
+## Me as a class in Python!
  ```python
  class WhoAmI:
  	user = 'Jhoan David Sinisterra'
-	current_edu = "I'm a proud aprenctice at SENA"
+	current_edu = "I'm a proud apprentice at SENA"
 	hobbies = [
 			'Learn new stuff',
 			'Watching Anime',
