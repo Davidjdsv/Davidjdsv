@@ -45,7 +45,7 @@ Always learning. Always evolving.
 
 ###
 
-<div align="center">
+<div align="end">
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDczdWtlc21icXFpYWxsbHdld3F0YTd5amhlM2FtODRscDl1bjkwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
 </div>
 
