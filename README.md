@@ -1,10 +1,27 @@
 <h1 align="left">Hello World!!</h1>
 
-###
-
-<p align="left">I'm Jhoan David Sinisterra, I'm a software developer apprentice</p>
-
-###
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Jhoan David Sinisterra'
+	current_edu = "I'm an aprenctice at SENA"
+	hobbies = [
+				'Learn new stuff',
+				'Watching Anime',
+				'Reading books'
+				'Being up all Night chasing that ONE BUG...'
+			]
+	
+	def getCountry():
+		return Colombia()
+	
+	def Ambitions():
+		LearnEnglish()
+		LearnJapanese()
+		CodeBetter()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
