@@ -46,4 +46,9 @@ Always learning. Always evolving.
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=style-plastic&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=style-plastic-purple&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=tyle-plastic&logo=notion&logoColor=white">
+
+  # You can catch me in my social media
+  <a url="https://www.linkedin.com/in/jhoan-david-sinisterra-valencia-a5a75a2a9/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=style-plastic&logo=linkedin&logoColor=white">
+  </a>
 </div>
