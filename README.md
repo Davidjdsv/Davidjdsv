@@ -6,10 +6,9 @@
 
 ## 🚀 About Me
 
-I am a **Software Analysis and Development** Technologist (**ADSO**) graduated from **SENA** (**National Training Service**)[cite: 25]. [cite_start]I specialize in building functional and responsive web applications with a focus on clean code and efficient **API** (**Application Programming Interface**) design[cite: 27, 28].
+I am a **Software Analysis and Development Technologist** (**ADSO**) graduated from **SENA** (**National Training Service**) I specialize in building functional and responsive web applications with a focus on clean code and efficient **API**.
 
-- 📖 **Learning:** Deep diving into **Laravel** for robust backend solutions.
-- 🇨🇴 **Based in:** Colombia.
+- 📖 **Learning:** Deep diving into **Laravel** for robust backend solutions and Angular (v20+) to build high-performance SPA.
 - ⚡ **Fun Fact:** I like stuff like reading manga, watch anime, and enjoy gaming.
 
 ## 🛠️ My Tech Stack
